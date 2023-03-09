@@ -1,0 +1,8 @@
+/Users/anushkagupta/qt-project/build-demoApp-Qt_6_4_2_for_macOS-Debug/CMakeFiles/demoApp.dir
+/Users/anushkagupta/qt-project/build-demoApp-Qt_6_4_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/anushkagupta/qt-project/build-demoApp-Qt_6_4_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/anushkagupta/qt-project/build-demoApp-Qt_6_4_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/anushkagupta/qt-project/build-demoApp-Qt_6_4_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/anushkagupta/qt-project/build-demoApp-Qt_6_4_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/anushkagupta/qt-project/build-demoApp-Qt_6_4_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/anushkagupta/qt-project/build-demoApp-Qt_6_4_2_for_macOS-Debug/CMakeFiles/demoApp_autogen.dir
